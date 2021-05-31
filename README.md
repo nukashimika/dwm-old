@@ -1,1 +1,1 @@
-# my dotfiles for dwm
+my dotfiles for dwm
